@@ -28,6 +28,11 @@
   margin-top: 20px;
 }
 
+.greeting-text-div {
+  display: flex;
+  align-items: center;
+}
+
 .greeting-text {
   margin-top: 110px;
   font-size: 60px;
@@ -39,6 +44,12 @@
   font-size: 30px;
   line-height: 0px;
   font-family: "Google Sans Bold Italic";
+}
+
+.profile-image {
+  width: 500px; /* Adjust the width as desired */
+  height: 500px; /* Adjust the height as desired */
+  border-radius: 40%; /* Add rounded corners */
 }
 
 .greeting-text-p {

@@ -6,6 +6,7 @@ import { Fade } from "react-reveal";
 import { useHistory } from "react-router-dom";
 import FeelingProud from "./FeelingProud";
 import { style } from "glamor";
+import profileImg from "../../assests/images/eli.jpg";
 
 export default function Greeting(props) {
   const theme = props.theme;
@@ -46,6 +47,9 @@ export default function Greeting(props) {
                   Contact Me
                 </button>
               </div>
+            </div>
+            <div className="greeting-image">
+              <img src={profileImg} alt="Profile" className="profile-image" />
             </div>
           </div>
         </div>

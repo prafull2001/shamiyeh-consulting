@@ -5,6 +5,7 @@ import { skills } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FullStackImg from "./FullStackImg";
 import CloudInfraImg from "./CloudInfraImg";
+import workingMan from "../../assests/images/workingman.png";
 // import DesignImg from "./DesignImg";
 
 function GetSkillSvg(props) {
@@ -25,7 +26,7 @@ function SkillSection(props) {
             <div className="skills-main-div">
               <Fade left duration={2000}>
                 <div className="skills-image-div">
-                  <GetSkillSvg fileName={skill.fileName} theme={theme} />
+                  <img src={workingMan} />
                 </div>
               </Fade>
 

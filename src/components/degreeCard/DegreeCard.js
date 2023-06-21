@@ -115,19 +115,7 @@ function DegreeCard(props) {
               target="_blank"
               rel="noopener noreferrer"
               style={{ textDecoration: "none", textAlign: "center" }}
-            >
-              <p
-                {...button_visit}
-                style={{
-                  marginRight: "23px",
-                  textDecoration: "none",
-                  float: "right",
-                  backgroundColor: theme.accentColor,
-                }}
-              >
-                Visit Website
-              </p>
-            </a>
+            ></a>
           </div>
         </div>
       </Fade>

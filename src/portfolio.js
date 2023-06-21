@@ -118,32 +118,31 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Shantilal Shah Engineering College",
-      subtitle: "Bachelor in Information Technology",
-      logo_path: "ssec.png",
-      alt_name: "SSEC",
-      duration: "2021 - Present",
+      title: "Colorado State University",
+      subtitle: "Masters in Business Administration",
+      logo_path: "csu.png",
+      alt_name: "CSU",
+      duration: "2009 - 2012",
       descriptions: [
-        "⚡ I'm currently pursuing my bachelors in Information Technology.",
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "Grade: 3.7 GPA",
+        "Activities and societies: Gamma Beta Phi Honor Society",
       ],
-      website_link: "http://www.ssgec.ac.in/",
     },
     {
-      title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
-      subtitle: "Diploma in Information Technology",
-      logo_path: "ssgandhy.png",
-      alt_name: "SSGC",
-      duration: "2018 - 2021",
-      descriptions: [
-        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
-        "⚡ I have secured 9.82 CGPA.",
-      ],
-      website_link: "http://www.ssgc.cteguj.in/",
+      title: "George Mason University",
+      subtitle: "Master of Science, Applied Statistical Sciences,",
+      logo_path: "gmu.png",
+      alt_name: "GMU",
+      duration: "1996 - 1998",
+      descriptions: ["TBD"],
+    },
+    {
+      title: "University of Virginia at Wise",
+      subtitle: "Bachelor of Science, Mathematics & Biology Minor",
+      logo_path: "uva.png",
+      alt_name: "UVW",
+      duration: "1991 - 1994",
+      descriptions: ["Activities and societies: Pi Kappa Phi"],
     },
   ],
 };
@@ -230,10 +229,10 @@ const certifications = {
 
 // Experience Page
 const experience = {
-  title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  title: "Professional Experiences",
+  subtitle: "Big pharma and local businesses.",
   description:
-    "I've completed one internship. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "Project Management, Program Management, and Operations PMP professional with 20+ years of progressive experience in life sciences, biotechnology, and solid biopharma business acumen.",
   header_image_path: "experience.svg",
   sections: [
     {

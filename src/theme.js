@@ -23,14 +23,14 @@ const darkTheme = {
   text: "#324912",
   dark: "#429325",
   secondaryText: "#324912",
-  accentColor: "#E3405F",
+  accentColor: "#324912",
   accentBright: "#324912",
   projectCard: "#429325",
   skinColor: "#F7B799",
   skinColor2: "#FCB696",
   imageDark: "#292A2D",
   imageClothes: "#000000",
-  avatarMisc: "#212121",
+  avatarMisc: "#324912",
   avatarShoes: "#2B2B2B",
 };
 

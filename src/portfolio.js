@@ -9,26 +9,23 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
+  title: "Hi, I'm Elias.",
+  title2: "Shamiyeh PM Consult LLC",
+  logo_name: "Shamiyeh PM Consult LLC",
   nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
-  subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
+  full_name: "",
+  subTitle:
+    "I support projects, programs, processes, system improvements and organizational changes.",
+  subSubTitle:
+    "I have experience in clinical development across Therapeutic areas that include Oncology, Immunology, rare disease, infectious and Cardiovascular disease. Experienced in research, IND to phase 3, and Medical Affairs. ",
   resumeLink:
     "https://drive.google.com/file/d/1Ty0-51DZ72PE30kfJ2p1jjw9SHYCnDAi/view?usp=sharing",
-  mail: "mailto:hkanani191@gmail.com",
+  mail: "mailto:shamiye@hotmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
-  // facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  linkedin: "https://www.linkedin.com/in/elishamiyeh/",
 };
 
 const skills = {

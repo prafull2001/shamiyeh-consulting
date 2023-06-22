@@ -45,7 +45,7 @@
   margin-left: 0px;
   margin-right: 0px;
   text-align: right;
-  color: #8c8c8c;
+  color: #78a9b9;
 }
 
 .experience-card-heading-left {
@@ -64,7 +64,7 @@
   font-family: "Google Sans Regular";
   margin: 0;
   text-align: right;
-  color: #868e96;
+  color: #78a9b9;
 }
 
 .experience-card-description {
@@ -77,12 +77,12 @@
 
 .experience-card-company > a {
   position: relative;
-  color: #8c8c8c;
+  color: #78a9b9;
   text-decoration: none;
 }
 
 .experience-card-company > a:hover {
-  color: #8c8c8c;
+  color: #78a9b9;
 }
 
 .experience-card-company > a:hover:before {

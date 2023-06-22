@@ -187,141 +187,113 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Node.js Backend Developer",
-          company: "Valora Infotech",
-          company_url: "http://valorainfotech.com/",
-          logo_path: "valora.jpg",
-          duration: "Oct 2020 - Dec 2022",
-          location: "Surat, Gujarat",
-          description: `Train, oversee, and mentor young software development employees. I created and managed the admin panel backend and a gambling application as a Node.js backend developer. I obtained knowledge in Web Socket, Payment Gateway Integration, and gaming legislation, while growing my industry experience and investigating new technologies.
-          Focus on change request functions in close collaboration with the project manager and team leads.
-          Developed new and maintained existing applications.
-          Increased productivity and problem-solving technics by 20%.
-          We primarily used PERN and MERN Stack. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
-          `,
+          title:
+            "Director, Medical Affairs Business Strategy, Project Management and Operations",
+          company: "Regeneron",
+          company_url: "https://www.regeneron.com/",
+          logo_path: "regeneron.png",
+          duration: "Aug 2021 - Feb 2023",
+          location: "XYZ",
+          description: `
+          Act as thought partner and Chief of Staff to the Vice President of Health Economics and Outcomes Research (HEOR). Provided project
+management and business operational support to the HEOR team supporting Oncology, Immunology and Gen Med projects. Collaborated
+cross-functionally to create processes/systems. Lead strategic annual brand and tactic planning and collaborated with Finance to
+establish/manage program budgets, prepare financial planning, forecasting, track invoicing activities and oversee accrual management.
+Maintain annual budgets review (medical and clinical), and project tactic status reviews. Managed resource needs through outsourcing
+
+and ensured team is sufficiently supported to complete projects. Supported adboards with KOLs. Line Management in supporting the
+HEOR team in operational excellence and strategical capacity. Built key performance indicators and metrics (KPIs) to measure team
+productivity. Part of a team to build an enterprise solution for project management to support Medical Affairs. Additionally, supported
+Transparency reporting for the team.`,
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          color: "#0071C5",
+          color: "#055aa4",
         },
-        // {
-        //   title: "Node.js Backend Developer (Intern)",
-        //   company: "Valora Infotech",
-        //   company_url: "http://valorainfotech.com/",
-        //   logo_path: "valora.jpg",
-        //   duration: "Oct 2020 - Mar 2021",
-        //   location: "Surat, Gujarat",
-        //   description: `Focus on change request functions in close collaboration with the project manager and team leads.
-        //   Developed new and maintained existing applications.
-        //   Increased productivity and problem-solving technics by 20%.
-        //   We primarily used PERN and MERN Stack. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
-        //   `,
-        //   // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-        //   color: "#0071C5",
-        // },
         {
-          title: "Full Stack Developer (Freelancer)",
-          company: "NightOwls",
-          company_url: "http://nightowls.company/",
-          logo_path: "nightowls.jpg",
-          duration: "Sep 2020 - Oct 2020",
-          location: "Work From Home",
-          description: `Maintain close contact with the client and team when handling change requests.
-          LAMP Stack was mostly utilised. 40% of my work was doing backend development, 30% of my work was designing database schemas, and 30% of my work was on maintain hosting and user traffics on the website.
-          `,
-          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
+          title:
+            "Director project Management and Operations and Head Global Program Management Office",
+          company: "Takeda",
+          company_url: "https://www.takeda.com/",
+          logo_path: "takeda.png",
+          duration: "Dec 2019 - Aug 2021",
+          location: "XYZ",
+          description: `
+          Joined Takeda as Global Head of Operations and Project Management under the Drug Metabolism and pharmacokinetics (DMPK) group.
+          Thought Partner and Chief of Staff to the VP of DMPK leading the strategic planning, project management and operations.
+          Also setup and led the operations team and established processes within Global DMPK. Following a re-organization and formation of one platform, Preclinical and Translational Sciences (PTS) that includes Drug metabolism, Drug
+          safety and Quantitation Translation, was tasked to setup and lead a global PMO and build a global team within the clinical research team.`,
           color: "#ee3c26",
+        },
+        {
+          title:
+            "PMO Global Commercial Brand Launch Operations Lead, Commercial",
+          company: "SUN Pharma",
+          company_url: "https://sunpharma.com/",
+          logo_path: "sunpharma.png",
+          duration: "Oct 2019 - Dec 2019",
+          location: "XYZ",
+          description: `
+          Responsible for the commercial launching of ILUMYA and the SUN Pharma entity in Canada. Within three months, setup the Sun
+Pharma address in Brampton Ontario, Canada. Additionally, helped setup the pieces for the launch including hire of the Medical
+Science Liaison (MSLs), provide equipment and software and initiate recruitment of the medical sales rep with help of Taro Pharma
+human resources, a subsidiary of Sun Pharma.`,
+          color: "#f5831a",
+        },
+        {
+          title:
+            "Director HCP engagement and Program Management, Transparency and Compliance Operations",
+          company: "Sanofi",
+          company_url: "https://www.sanofi.com/en",
+          logo_path: "sanofi.png",
+          duration: "Apr 2015 - Oct 2019",
+          location: "XYZ",
+          description: `
+          Served in increasing level of responsibility: Associate Director R&amp;D Transparency Business Partner (2015 – 2017), Director Program
+          Management (2017 – 2019) within transparency and compliance operations. Established a global team to manage contract drafting, payment and consent for disclosure of transfers of value for HCPs and HCOs
+          across US, LATAM and EU, thus ensuring compliance with transparency laws and codes including Sunshine Act (US), EFPIA Code
+          (EU) and Bertrand Law (France). Represented organizational benefits during vendor management – employ 11 global transparency tools that included contract and
+          payment, disclosure, and led the team through planning, execution, resource management and process improvement across these
+          tools. Contract negotiations with vendors and managed overall program budget. Increased efficiency globally by reducing
+          redundant tools and resources to capture direct and non-direct payments.`,
+          color: "#7a00e6",
         },
       ],
     },
     {
-      title: "Volunteerships",
+      title: "Additional Experience",
       experiences: [
         {
-          title: "Community Lead",
-          company: "Bauddhik-Geeks",
-          company_url: "https://bauddhikgeeks.tech/",
-          logo_path: "bauddhikgeeks.png",
-          duration: "Sep 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Help Tech-Geeks so they get exposure to the technical world and enlighten their skills. Hence, the programming club highlight all the skills of the individual members and help them develop and groom their skills in a meaningful way. Help community members to learn and grow.",
-          color: "#FBBD18",
+          title:
+            "Instructor, Co-director & Volunteer, Project Management Institute (PMI) New Jersey Chapter",
+          company: "Project Management Institute",
+          company_url: "https://www.pmi.org/",
+          logo_path: "pmi.png",
+          duration: "Feb 2015 - Jan 2017",
+          location: "",
+          description: "",
+          color: "#FFFFFF",
         },
         {
-          title: "Cross Winter of Code Mentor",
-          company: "CWOC",
+          title:
+            "Manager Biostatistics, Northwestern University Medical School, Arthritis Center, Chicago, IL",
+          company: "Northwestern University",
           company_url: "https://crosswoc.ieeedtu.in/",
-          logo_path: "cwoc.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
-          color: "#4285F4",
-        },
-        // {
-        //   title: "Campus Hustler",
-        //   company: "Skillenza",
-        //   company_url: "https://skillenza.com/",
-        //   logo_path: "skillenza.png",
-        //   duration: "Feb 2021 - Present",
-        //   location: "Work from Home",
-        //   description:
-        //     "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
-        //   color: "#196acf",
-        // },
-        {
-          title: "GDG Student Volunteer",
-          company: "Google Developer Groups",
-          company_url: "https://gdg.community.dev/",
-          logo_path: "gdg.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
-          color: "#D83B01",
+          logo_path: "northwestern.png",
+          duration: "Oct 1999 - Jul 2003",
+          location: "",
+          description: "",
+          color: "#FFFFFF",
         },
         {
-          title: "Postman Student Expert",
-          company: "Postman",
-          company_url: "https://www.postman.com/",
-          logo_path: "postman.png",
-          duration: "Feb 2020 - Present",
-          location: "Work From Home",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
-          color: "#D83B01",
-        },
-        {
-          title: "GitHub Student Developer",
-          company: "GitHub",
-          company_url: "https://github.com/",
-          logo_path: "github.png",
-          duration: "Nov 2019 - Present",
-          location: "Work from Home",
-          description:
-            "Contribute to Open Source Community and Open Source Project.",
-          color: "#040f26",
-        },
-        {
-          title: "Google Local Guide",
-          company: "Google Map",
-          company_url: "https://maps.google.com/localguides/",
-          logo_path: "localguide.png",
-          duration: "Sep 2018 - Present",
-          location: "Work From Home",
-          description:
-            "Day-to-day responsibilities of helping local businesses to spread their business to the world. Helping users by writing reviews about different locations and spaces such as shops, malls, etc.",
-          color: "#D83B01",
-        },
-        {
-          title: "E. F. I. Student Volunteer",
-          company: "ENVIRONMENTALIST FOUNDATION OF INDIA",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "efi.png",
-          duration: "Apr 2017 - Present",
-          location: "Work From Home",
-          description:
-            "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
-          color: "#5a900f",
+          title:
+            "Statistical Analyst, Abbott Medical Diagnostics Division (through Trilogy Consulting)",
+          company: "Abbott Medical Diagnostics Division",
+          company_url:
+            "https://www.abbott.com/for-healthcare-professionals/diagnostics.html",
+          logo_path: "abbott.png",
+          duration: "Aug 1998 - Oct 1999",
+          location: "",
+          description: "",
+          color: "#FFFFFF",
         },
       ],
     },
@@ -340,7 +312,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "harikrushn.jpg",
+    profile_image_path: "eli.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },

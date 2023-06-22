@@ -6,6 +6,7 @@ import { Fade } from "react-reveal";
 import { useHistory } from "react-router-dom";
 import FeelingProud from "./FeelingProud";
 import { style } from "glamor";
+import profileImg from "../../assests/images/eli.jpg";
 
 export default function Greeting(props) {
   const theme = props.theme;
@@ -29,11 +30,10 @@ export default function Greeting(props) {
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                <span>I'm </span>
-                <span style={{ color: theme.accentColor }}>
-                  {greeting.full_name}.{" "}
-                </span>
+                <span></span>
                 {greeting.subTitle}
+                <p></p>
+                {greeting.subSubTitle}
               </p>
               <SocialMedia />
               <div className="portfolio-repo-btn-div">
@@ -48,9 +48,9 @@ export default function Greeting(props) {
                 </button>
               </div>
             </div>
-          </div>
-          <div className="greeting-image-div">
-            <FeelingProud theme={theme} />
+            <div className="greeting-image">
+              <img src={profileImg} alt="Profile" className="profile-image" />
+            </div>
           </div>
         </div>
       </div>

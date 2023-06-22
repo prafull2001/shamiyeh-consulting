@@ -22,12 +22,12 @@ function ExperienceCard(props) {
       <div className="experience-card-body-div">
         <div className="experience-card-header-div">
           <div className="experience-card-heading-left">
-            <h3 className="experience-card-title" style={{ color: theme.text }}>
+            <h3 className="experience-card-title" style={{ color: theme.body }}>
               {experience["title"]}
             </h3>
             <p
               className="experience-card-company"
-              style={{ color: theme.secondaryText }}
+              style={{ color: theme.body }}
             >
               <a
                 href={experience["company_url"]}
@@ -41,13 +41,13 @@ function ExperienceCard(props) {
           <div className="experience-card-heading-right">
             <p
               className="experience-card-duration"
-              style={{ color: theme.secondaryText }}
+              style={{ color: theme.body }}
             >
               {experience["duration"]}
             </p>
             <p
               className="experience-card-location"
-              style={{ color: theme.secondaryText }}
+              style={{ color: theme.body }}
             >
               {experience["location"]}
             </p>
@@ -55,7 +55,7 @@ function ExperienceCard(props) {
         </div>
         <p
           className="experience-card-description"
-          style={{ color: theme.text }}
+          style={{ color: theme.body }}
         >
           {experience["description"]}
         </p>

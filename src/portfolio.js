@@ -134,7 +134,10 @@ const degrees = {
       logo_path: "gmu.png",
       alt_name: "GMU",
       duration: "1996 - 1998",
-      descriptions: ["TBD"],
+      descriptions: [
+        "Opened first telecommunication center in Northern Virginia",
+        "Collected data for business and marketing purposes to provide the customer a more meaningful support by the staff",
+      ],
     },
     {
       title: "University of Virginia at Wise",

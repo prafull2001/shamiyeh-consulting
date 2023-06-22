@@ -6,6 +6,7 @@ import { Fade } from "react-reveal";
 import { projectsHeader, projects } from "../../portfolio.js";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
+import publicationImg from "../../assests/images/publication.png";
 import { style } from "glamor";
 
 function Projects(props) {
@@ -25,7 +26,8 @@ function Projects(props) {
         <Fade bottom duration={2000} distance="40px">
           <div className="projects-heading-div">
             <div className="projects-heading-img-div">
-              <ProjectsImg theme={theme} />
+              {/* <ProjectsImg theme={theme} /> */}
+              <img src={publicationImg} />
             </div>
             <div className="projects-heading-text-div">
               <h1
@@ -52,13 +54,7 @@ function Projects(props) {
       <br />
       <br />
       <br />
-      <a
-        {...styles}
-        className="general-btn"
-        href="https://github.com/harikanani"
-      >
-        More Projects (Github)
-      </a>
+
       <br />
       <br />
       <Footer theme={props.theme} onToggle={props.onToggle} />

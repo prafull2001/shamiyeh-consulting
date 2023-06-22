@@ -12,14 +12,14 @@ const greeting = {
   title: "Hi, I'm Elias.",
   title2: "Shamiyeh PM Consult LLC",
   logo_name: "Shamiyeh PM Consult LLC",
-  nickname: "harry / picleric",
+  nickname: "none",
   full_name: "",
   subTitle:
     "I support projects, programs, processes, system improvements and organizational changes.",
   subSubTitle:
     "I have experience in clinical development across Therapeutic areas that include Oncology, Immunology, rare disease, infectious and Cardiovascular disease. Experienced in research, IND to phase 3, and Medical Affairs. ",
   resumeLink:
-    "https://drive.google.com/file/d/1Ty0-51DZ72PE30kfJ2p1jjw9SHYCnDAi/view?usp=sharing",
+    "https://docs.google.com/document/d/17hV_3wLW2grmwWT46eM2DV4XFLJyefnC/edit?usp=sharing&ouid=104175081397162516756&rtpof=true&sd=truehttps://drive.google.com/file/d/1Ty0-51DZ72PE30kfJ2p1jjw9SHYCnDAi/view?usp=sharing",
   mail: "mailto:shamiye@hotmail.com",
 };
 

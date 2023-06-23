@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shamiyeh-consulting/static/css/main.c1f1f450.css",
-    "main.js": "/shamiyeh-consulting/static/js/main.d3b339f0.js",
+    "main.css": "/shamiyeh-consulting/static/css/main.b15c560d.css",
+    "main.js": "/shamiyeh-consulting/static/js/main.35237d08.js",
     "static/media/fa-solid-900.svg": "/shamiyeh-consulting/static/media/fa-solid-900.33f11e8e33e406b0dc21.svg",
     "static/media/fa-brands-400.svg": "/shamiyeh-consulting/static/media/fa-brands-400.5f2a2f236048660df440.svg",
     "static/media/gmu.png": "/shamiyeh-consulting/static/media/gmu.2ae51ff230377bde47a0.png",
@@ -40,11 +40,11 @@
     "static/media/fa-regular-400.woff2": "/shamiyeh-consulting/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/abbott.png": "/shamiyeh-consulting/static/media/abbott.7dbd6daf8b6d7ccd87a4.png",
     "index.html": "/shamiyeh-consulting/index.html",
-    "main.c1f1f450.css.map": "/shamiyeh-consulting/static/css/main.c1f1f450.css.map",
-    "main.d3b339f0.js.map": "/shamiyeh-consulting/static/js/main.d3b339f0.js.map"
+    "main.b15c560d.css.map": "/shamiyeh-consulting/static/css/main.b15c560d.css.map",
+    "main.35237d08.js.map": "/shamiyeh-consulting/static/js/main.35237d08.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1f1f450.css",
-    "static/js/main.d3b339f0.js"
+    "static/css/main.b15c560d.css",
+    "static/js/main.35237d08.js"
   ]
 }

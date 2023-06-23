@@ -193,7 +193,7 @@ const experience = {
           company_url: "https://www.regeneron.com/",
           logo_path: "regeneron.png",
           duration: "Aug 2021 - Feb 2023",
-          location: "XYZ",
+          location: "Sleepy Hollow, New York",
           description: `
           Act as thought partner and Chief of Staff to the Vice President of Health Economics and Outcomes Research (HEOR). Provided project
 management and business operational support to the HEOR team supporting Oncology, Immunology and Gen Med projects. Collaborated
@@ -215,7 +215,7 @@ Transparency reporting for the team.`,
           company_url: "https://www.takeda.com/",
           logo_path: "takeda.png",
           duration: "Dec 2019 - Aug 2021",
-          location: "XYZ",
+          location: "Cambridge, MA",
           description: `
           Joined Takeda as Global Head of Operations and Project Management under the Drug Metabolism and pharmacokinetics (DMPK) group.
           Thought Partner and Chief of Staff to the VP of DMPK leading the strategic planning, project management and operations.
@@ -230,7 +230,7 @@ Transparency reporting for the team.`,
           company_url: "https://sunpharma.com/",
           logo_path: "sunpharma.png",
           duration: "Oct 2019 - Dec 2019",
-          location: "XYZ",
+          location: "Princeton, NJ",
           description: `
           Responsible for the commercial launching of ILUMYA and the SUN Pharma entity in Canada. Within three months, setup the Sun
 Pharma address in Brampton Ontario, Canada. Additionally, helped setup the pieces for the launch including hire of the Medical
@@ -245,7 +245,7 @@ human resources, a subsidiary of Sun Pharma.`,
           company_url: "https://www.sanofi.com/en",
           logo_path: "sanofi.png",
           duration: "Apr 2015 - Oct 2019",
-          location: "XYZ",
+          location: "Bridgewater, NJ",
           description: `
           Served in increasing level of responsibility: Associate Director R&amp;D Transparency Business Partner (2015 – 2017), Director Program
           Management (2017 – 2019) within transparency and compliance operations. Established a global team to manage contract drafting, payment and consent for disclosure of transfers of value for HCPs and HCOs
@@ -280,7 +280,10 @@ human resources, a subsidiary of Sun Pharma.`,
           logo_path: "northwestern.png",
           duration: "Oct 1999 - Jul 2003",
           location: "",
-          description: "",
+          description: `Supervised database manager and data entry personnel, include developing, implementing data verification and quality control procedures.  
+          Heavily interacted with Principal Investigators to review of, and providing analysis for research papers and proposals prior to submission for external review. 
+          Wrote/reviewed SAPs, conducted power and sample size calculations, and applied appropriate transformations by examining distributions.  
+          Major Research Projects include elderly patients with Arthritis, Arthritis and Musculoskeletal and skin Diseases studying Juvenile Dermatomyositis, Systematic Lupus, Knee Osteoarthritis research`,
           color: "#FFFFFF",
         },
         {
@@ -292,7 +295,13 @@ human resources, a subsidiary of Sun Pharma.`,
           logo_path: "abbott.png",
           duration: "Aug 1998 - Oct 1999",
           location: "",
-          description: "",
+          description: `
+          Conducted statistical analysis of HIV infected patients and patients’ blood chemistry data. 
+Generated accurate reports for FDA submissions using SAS software under UNIX environment.  
+Supervised five data management personnel and coordinated effective interface with analysts/statisticians. 
+Troubleshoot data problems and generated a data check system to ensure accurate data and results.  
+Set up, maintained projects, and system administration for Texas site.  
+Wrote/reviewed SAPs per ICH guidelines, and interacted with clinical monitors to interpret statistical reports  `,
           color: "#FFFFFF",
         },
       ],
@@ -303,7 +312,8 @@ human resources, a subsidiary of Sun Pharma.`,
 // Projects Page
 const projectsHeader = {
   title: "Publications",
-  description: "My publications",
+  description:
+    "Supported the analysis of data across multiple therapeutic areas, including Rheumatology, and Oncology.",
   avatar_image_path: "projects_image.svg",
 };
 

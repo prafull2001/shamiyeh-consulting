@@ -2,7 +2,7 @@
   "private": true,
   "name": "opportfolio",
   "version": "1.2.0",
-  "homepage": "http://prafull2001.github.io/shamiyeh-consulting",
+  "homepage": "http://shamiyehpmconsult.com",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
